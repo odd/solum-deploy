@@ -1,4 +1,4 @@
 solum-target
 ============
 
-Target directory for the Solum project
+Deploy repository for the Solum project
