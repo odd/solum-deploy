@@ -11,6 +11,11 @@ lib_managed/
 src_managed/
 project/boot/
 project/plugins/project/
+scala-2.11/
+docker/
+resolution-cache/
+streams/
+.history
 
 # Scala-IDE specific
 .scala_dependencies
