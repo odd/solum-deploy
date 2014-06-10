@@ -20,3 +20,4 @@ streams/
 # Scala-IDE specific
 .scala_dependencies
 .worksheet
+.elasticbeanstalk/
